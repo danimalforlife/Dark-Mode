@@ -526,63 +526,63 @@ assets:
 # Roxas's Room
 - name: map/tt01.map
   method: copy
-  package: kh2_fifth
+  package: kh2_first
   source:
   - name: map/tt01.map
 
 # The Usual Spot
 - name: map/tt02.map
   method: copy
-  package: kh2_fifth
+  package: kh2_first
   source:
   - name: map/tt02.map
 
 # Back Alley
 - name: map/tt03.map
   method: copy
-  package: kh2_fifth
+  package: kh2_first
   source:
   - name: map/tt03.map
 
 # Sandlot
 - name: map/tt04.map
   method: copy
-  package: kh2_fifth
+  package: kh2_first
   source:
   - name: map/tt04.map
 
 # Sandlot
 - name: map/tt05.map
   method: copy
-  package: kh2_fifth
+  package: kh2_first
   source:
   - name: map/tt05.map
 
 # Market Street: Station Heights
 - name: map/tt06.map
   method: copy
-  package: kh2_fifth
+  package: kh2_first
   source:
   - name: map/tt06.map
 
 # Market Street: Tram Common
 - name: map/tt07.map
   method: copy
-  package: kh2_fifth
+  package: kh2_first
   source:
   - name: map/tt07.map
 
 # Station Plaza
 - name: map/tt08.map
   method: copy
-  package: kh2_fifth
+  package: kh2_first
   source:
   - name: map/tt08.map
 
 # Central Station
 - name: map/tt09.map
   method: copy
-  package: kh2_fifth
+  package: kh2_first
   source:
   - name: map/tt09.map
 
@@ -610,14 +610,14 @@ assets:
 # The Woods
 - name: map/tt13.map
   method: copy
-  package: kh2_fifth
+  package: kh2_first
   source:
   - name: map/tt13.map
 
 # The Old Mansion
 - name: map/tt14.map
   method: copy
-  package: kh2_fifth
+  package: kh2_first
   source:
   - name: map/tt14.map
 
